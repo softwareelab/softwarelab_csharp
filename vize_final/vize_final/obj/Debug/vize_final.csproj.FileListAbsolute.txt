@@ -1,0 +1,7 @@
+D:\wsoftware\msvs\vize_final_notHesaplama\vize_final\vize_final\bin\Debug\vize_final.exe.config
+D:\wsoftware\msvs\vize_final_notHesaplama\vize_final\vize_final\bin\Debug\vize_final.exe
+D:\wsoftware\msvs\vize_final_notHesaplama\vize_final\vize_final\bin\Debug\vize_final.pdb
+D:\wsoftware\msvs\vize_final_notHesaplama\vize_final\vize_final\obj\Debug\vize_final.csprojAssemblyReference.cache
+D:\wsoftware\msvs\vize_final_notHesaplama\vize_final\vize_final\obj\Debug\vize_final.csproj.CoreCompileInputs.cache
+D:\wsoftware\msvs\vize_final_notHesaplama\vize_final\vize_final\obj\Debug\vize_final.exe
+D:\wsoftware\msvs\vize_final_notHesaplama\vize_final\vize_final\obj\Debug\vize_final.pdb
