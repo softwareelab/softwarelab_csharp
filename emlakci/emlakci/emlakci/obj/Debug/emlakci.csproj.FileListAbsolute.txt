@@ -1,0 +1,7 @@
+D:\wsoftware\msvs\emlakci\emlakci\emlakci\bin\Debug\emlakci.exe.config
+D:\wsoftware\msvs\emlakci\emlakci\emlakci\bin\Debug\emlakci.exe
+D:\wsoftware\msvs\emlakci\emlakci\emlakci\bin\Debug\emlakci.pdb
+D:\wsoftware\msvs\emlakci\emlakci\emlakci\obj\Debug\emlakci.csprojAssemblyReference.cache
+D:\wsoftware\msvs\emlakci\emlakci\emlakci\obj\Debug\emlakci.csproj.CoreCompileInputs.cache
+D:\wsoftware\msvs\emlakci\emlakci\emlakci\obj\Debug\emlakci.exe
+D:\wsoftware\msvs\emlakci\emlakci\emlakci\obj\Debug\emlakci.pdb
