@@ -1,0 +1,7 @@
+D:\wsoftware\msvs\atm\atm\atm\bin\Debug\atm.exe.config
+D:\wsoftware\msvs\atm\atm\atm\bin\Debug\atm.exe
+D:\wsoftware\msvs\atm\atm\atm\bin\Debug\atm.pdb
+D:\wsoftware\msvs\atm\atm\atm\obj\Debug\atm.csprojAssemblyReference.cache
+D:\wsoftware\msvs\atm\atm\atm\obj\Debug\atm.csproj.CoreCompileInputs.cache
+D:\wsoftware\msvs\atm\atm\atm\obj\Debug\atm.exe
+D:\wsoftware\msvs\atm\atm\atm\obj\Debug\atm.pdb
