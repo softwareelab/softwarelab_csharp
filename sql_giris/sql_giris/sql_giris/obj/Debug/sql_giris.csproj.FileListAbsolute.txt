@@ -1,0 +1,10 @@
+D:\wsoftware\msvs\sql_giris\sql_giris\sql_giris\bin\Debug\sql_giris.exe.config
+D:\wsoftware\msvs\sql_giris\sql_giris\sql_giris\bin\Debug\sql_giris.exe
+D:\wsoftware\msvs\sql_giris\sql_giris\sql_giris\bin\Debug\sql_giris.pdb
+D:\wsoftware\msvs\sql_giris\sql_giris\sql_giris\obj\Debug\sql_giris.csprojAssemblyReference.cache
+D:\wsoftware\msvs\sql_giris\sql_giris\sql_giris\obj\Debug\sql_giris.Form1.resources
+D:\wsoftware\msvs\sql_giris\sql_giris\sql_giris\obj\Debug\sql_giris.Properties.Resources.resources
+D:\wsoftware\msvs\sql_giris\sql_giris\sql_giris\obj\Debug\sql_giris.csproj.GenerateResource.cache
+D:\wsoftware\msvs\sql_giris\sql_giris\sql_giris\obj\Debug\sql_giris.csproj.CoreCompileInputs.cache
+D:\wsoftware\msvs\sql_giris\sql_giris\sql_giris\obj\Debug\sql_giris.exe
+D:\wsoftware\msvs\sql_giris\sql_giris\sql_giris\obj\Debug\sql_giris.pdb
