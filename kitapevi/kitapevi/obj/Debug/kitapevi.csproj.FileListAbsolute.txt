@@ -1,0 +1,7 @@
+D:\wsoftware\msvs\kitapevi\kitapevi\kitapevi\bin\Debug\kitapevi.exe.config
+D:\wsoftware\msvs\kitapevi\kitapevi\kitapevi\bin\Debug\kitapevi.exe
+D:\wsoftware\msvs\kitapevi\kitapevi\kitapevi\bin\Debug\kitapevi.pdb
+D:\wsoftware\msvs\kitapevi\kitapevi\kitapevi\obj\Debug\kitapevi.csprojAssemblyReference.cache
+D:\wsoftware\msvs\kitapevi\kitapevi\kitapevi\obj\Debug\kitapevi.csproj.CoreCompileInputs.cache
+D:\wsoftware\msvs\kitapevi\kitapevi\kitapevi\obj\Debug\kitapevi.exe
+D:\wsoftware\msvs\kitapevi\kitapevi\kitapevi\obj\Debug\kitapevi.pdb
