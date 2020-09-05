@@ -1,0 +1,7 @@
+C:\Users\Asus\source\repos\csharp_metot_ornek1\csharp_metot_ornek1\bin\Debug\csharp_metot_ornek1.exe.config
+C:\Users\Asus\source\repos\csharp_metot_ornek1\csharp_metot_ornek1\bin\Debug\csharp_metot_ornek1.exe
+C:\Users\Asus\source\repos\csharp_metot_ornek1\csharp_metot_ornek1\bin\Debug\csharp_metot_ornek1.pdb
+C:\Users\Asus\source\repos\csharp_metot_ornek1\csharp_metot_ornek1\obj\Debug\csharp_metot_ornek1.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\csharp_metot_ornek1\csharp_metot_ornek1\obj\Debug\csharp_metot_ornek1.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\csharp_metot_ornek1\csharp_metot_ornek1\obj\Debug\csharp_metot_ornek1.exe
+C:\Users\Asus\source\repos\csharp_metot_ornek1\csharp_metot_ornek1\obj\Debug\csharp_metot_ornek1.pdb
